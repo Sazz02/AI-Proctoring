@@ -1,0 +1,5 @@
+Flask==2.3.3
+ultralytics==8.0.174
+opencv-python
+numpy
+gunicorn
